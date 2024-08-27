@@ -1,0 +1,5 @@
+node_modules
+dist 
+glove.6B.100d.txt
+glove.6B.50d.txt
+logs
